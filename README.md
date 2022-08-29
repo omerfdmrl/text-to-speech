@@ -2,7 +2,7 @@
 
 Javascript simple `speechSynthesis` api usage
 
-![screenshot](/screenshot.jpg?raw=true "Screenshot From Application")
+![screenshot](/screenshot.png?raw=true "Screenshot From Application")
 
 ## Getting Started
 
