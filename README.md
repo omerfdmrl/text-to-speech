@@ -12,7 +12,7 @@ Javascript simple `speechSynthesis` api usage
 
 ## Author
 
-Coded by [@omerfdmrl](https://github.com/omerfdmrl) for [Kodin.dev](https://kodin.dev)
+Coded by [@omerfdmrl](https://github.com/omerfdmrl)
 
 ## License
 
